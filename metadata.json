@@ -1,0 +1,7 @@
+{
+  "name": "Waste Segregation AI",
+  "description": "An intelligent application that uses AI to analyze images of waste, identify items, categorize them, and provide disposal recommendations. Upload an image to automatically detect and classify waste items for proper segregation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
